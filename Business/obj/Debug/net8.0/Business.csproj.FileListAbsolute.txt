@@ -1,0 +1,15 @@
+D:\Homeworks\MaskTracking\Business\bin\Debug\net8.0\Business.deps.json
+D:\Homeworks\MaskTracking\Business\bin\Debug\net8.0\Business.dll
+D:\Homeworks\MaskTracking\Business\bin\Debug\net8.0\Business.pdb
+D:\Homeworks\MaskTracking\Business\bin\Debug\net8.0\Entities.dll
+D:\Homeworks\MaskTracking\Business\bin\Debug\net8.0\Entities.pdb
+D:\Homeworks\MaskTracking\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+D:\Homeworks\MaskTracking\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homeworks\MaskTracking\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+D:\Homeworks\MaskTracking\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+D:\Homeworks\MaskTracking\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+D:\Homeworks\MaskTracking\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+D:\Homeworks\MaskTracking\Business\obj\Debug\net8.0\Business.dll
+D:\Homeworks\MaskTracking\Business\obj\Debug\net8.0\refint\Business.dll
+D:\Homeworks\MaskTracking\Business\obj\Debug\net8.0\Business.pdb
+D:\Homeworks\MaskTracking\Business\obj\Debug\net8.0\ref\Business.dll
